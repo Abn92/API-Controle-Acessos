@@ -23,7 +23,8 @@ O sistema tem como objetivo gerenciar produtos e suas movimentações de estoque
 * **JUnit 5 & Mockito** (Testes)
 
 ### **Front-end**
-* **Framework:** [Defina aqui: React / Angular / Vue]
+* **Framework:**  [Vue]
+https://github.com/Abn92/UI-Controle-Acessos
 
 ---
 
